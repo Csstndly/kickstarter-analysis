@@ -19,9 +19,8 @@ When filtering for only the theater category this held somewhat true. May was st
 
 ### Analysis of Outcomes Based on Goals
 
-In analyzing outcomes based on goals it shows that the lower financial goals were more likely to succeed than higher financial goals. Goals less than 1 thousand dollars only 29% of them failed or were canceled making it the most successful financial goal. While goals greater than 5000 failed or were canceled 84% of the time. And the difference of the number of projects between the two categories are 117 projects.
-![Outcomes Goal](https://user-images.githubusercontent.com/88587406/130365882-298cd980-8bc8-4667-8b41-c4791418614f.png)
-
+In analyzing outcomes based on goals it shows that the lower financial goals were more likely to succeed than higher financial goals. Goals less than 1 thousand dollars only 24% of them failed or were canceled making it the most successful financial goal. While goals greater than 5000 failed or were canceled 83% of the time. 
+![Outcomes Goal](https://user-images.githubusercontent.com/88587406/130375227-4f292200-e411-4178-8adb-d2e4c7473ed8.png)
 
 ### Challenges and Difficulties Encountered
 
